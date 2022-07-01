@@ -1,0 +1,19 @@
+#Rezultatas1{
+    border: 1px solid black;
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
+
+fieldset{
+    display: inline-block;
+    /* width: auto; */
+}
+
+#uzd2output{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
